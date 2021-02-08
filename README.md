@@ -3,7 +3,7 @@
 * First conceptualized by Robert C. Martin in 2000 paper - Design Principles and Design Patterns.   
 * Michael Feathers later built upon these concepts and introduced the SOLID acronym.  
 * These 5 principles have become fundamentals for how OO code is written 
-As applications grow these principles reduce complexity making code more maintainable, readable and flexible!
+* As applications grow these principles reduce complexity making code more maintainable, readable and flexible!
 
 
 ### Single Responsibility
